@@ -28,9 +28,6 @@ using a simple shortcode.
 5. Enter your OpenAI API key
 6. Add `[ai_chat]` to any page or post
 
-## Screenshots
-
-![Chat Widget](screenshots/chat-widget.png)
 
 ## Security
 
